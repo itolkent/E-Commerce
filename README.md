@@ -1,5 +1,5 @@
 ﻿# E-Commerce
-
+<img width="1270" height="1106" alt="niAoyF2f7c" src="https://github.com/user-attachments/assets/f9724ad8-9fd1-4e22-9980-d61162663c1e" />
 <img width="1272" height="977" alt="ZGIl7PpiXO" src="https://github.com/user-attachments/assets/c363097f-b940-450d-8884-917538b7b52a" />
 <img width="1280" height="766" alt="RzuZCa92FC" src="https://github.com/user-attachments/assets/e1e99884-da65-46e8-848d-c0a6edca274d" />
 <img width="1270" height="1327" alt="DTX3Xj9J6V" src="https://github.com/user-attachments/assets/c6fa24f2-27d6-4a17-880e-f89a7ce7b63a" />

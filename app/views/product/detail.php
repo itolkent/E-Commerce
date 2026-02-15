@@ -54,7 +54,7 @@
 
                     <div class="related-product-info">
                         <p class="related-product-name"><?= $item['name'] ?></p>
-                        <p class="related-product-price">$<?= number_format($item['price'], 2) ?></p>
+                        <p class="related-product-price">£<?= number_format($item['price'], 2) ?></p>
 
                         <a href="<?= BASE_URL ?>product/<?= $item['slug'] ?>" class="button-secondary ">
                             View

@@ -47,7 +47,7 @@
                                     <?= number_format($item['price'], 2) ?>
                                 </td>
 
-                                <td>$
+                                <td>£
                                     <?= number_format($item['price'] * $item['qty'], 2) ?>
                                 </td>
 

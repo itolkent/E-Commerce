@@ -1,6 +1,5 @@
 ﻿# E-Commerce
 <img width="1270" height="1106" alt="niAoyF2f7c" src="https://github.com/user-attachments/assets/f9724ad8-9fd1-4e22-9980-d61162663c1e" />
-<img width="1272" height="977" alt="ZGIl7PpiXO" src="https://github.com/user-attachments/assets/c363097f-b940-450d-8884-917538b7b52a" />
 <img width="1280" height="766" alt="RzuZCa92FC" src="https://github.com/user-attachments/assets/e1e99884-da65-46e8-848d-c0a6edca274d" />
 <img width="1270" height="1327" alt="DTX3Xj9J6V" src="https://github.com/user-attachments/assets/c6fa24f2-27d6-4a17-880e-f89a7ce7b63a" />
 <img width="1270" height="888" alt="Wql03OBd2k" src="https://github.com/user-attachments/assets/9fe661fc-a25e-4ad9-a538-0ee2baba3ab6" />
@@ -11,6 +10,7 @@
 <img width="1280" height="763" alt="LP8WcMU7No" src="https://github.com/user-attachments/assets/d0b457c7-5187-4e8e-a526-15d49548b514" />
 <img width="1279" height="778" alt="u9tTwJcIAM" src="https://github.com/user-attachments/assets/b43855c6-109a-423b-bf1d-4e3ff178dc7e" />
 <img width="1262" height="765" alt="O5wicX3MAq" src="https://github.com/user-attachments/assets/91c8d108-b2ac-4c64-ac86-74ca451c81f8" />
+
 
 
 

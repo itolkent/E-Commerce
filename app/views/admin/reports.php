@@ -17,7 +17,7 @@
 
             <div class="dashboard-card">
                 <p class="card-title">Total Sales</p>
-                <p class="card-value">$
+                <p class="card-value">£
                     <?= number_format($totalSales, 2) ?>
                 </p>
             </div>
@@ -81,7 +81,7 @@
                         <td>
                             <?= $m['month'] ?>
                         </td>
-                        <td>$
+                        <td>£
                             <?= number_format($m['revenue'], 2) ?>
                         </td>
                     </tr>

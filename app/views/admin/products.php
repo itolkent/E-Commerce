@@ -32,7 +32,7 @@
                     <tr>
                         <td><?= $product['id'] ?></td>
                         <td><?= $product['name'] ?></td>
-                        <td>$<?= number_format($product['price'], 2) ?></td>
+                        <td>£<?= number_format($product['price'], 2) ?></td>
                         <td><?= $product['stock'] ?></td>
                         <td><?= $product['sku'] ?></td>
                         <td><?= $product['status'] ?></td>

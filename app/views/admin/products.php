@@ -12,7 +12,7 @@
 
         <h1>Products</h1>
 
-        <a href="<?= BASE_URL ?>admin/products/create" class="button-primary">Add New Product</a>
+        <a href="<?= BASE_URL ?>admin/products/create" class="button-secondary">Add New Product</a>
 
         <table class="admin-table">
             <thead>

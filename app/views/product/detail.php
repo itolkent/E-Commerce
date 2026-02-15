@@ -15,7 +15,7 @@
 
             <!-- PRODUCT IMAGE -->
             <div class="product-image-section">
-                <img src="<?= BASE_URL ?>uploads/<?= $product['image'] ?>" alt="<?= $product['name'] ?>"
+                <img src="<?= BASE_URL ?>assets/uploads/<?= $product['image'] ?>" alt="<?= $product['name'] ?>"
                     class="product-main-image">
             </div>
 
@@ -23,7 +23,7 @@
             <div class="product-info-section">
                 <h1 class="product-title"><?= $product['name'] ?></h1>
 
-                <p class="product-price">$<?= number_format($product['price'], 2) ?></p>
+                <p class="product-price">£<?= number_format($product['price'], 2) ?></p>
 
                 <p class="product-description">
                     <?= nl2br($product['description']) ?>
@@ -34,7 +34,7 @@
                 </p>
 
                 <?php if ($product['stock'] > 0): ?>
-                    <a href="<?= BASE_URL ?>cart/add/<?= $product['id'] ?>" class="button-primary">
+                    <a href="<?= BASE_URL ?>cart/add/<?= $product['id'] ?>" class="button-secondary">
                         Add to Cart
                     </a>
                 <?php endif; ?>
@@ -49,14 +49,14 @@
             <?php foreach ($related as $item): ?>
                 <div class="related-product-card">
 
-                    <img src="<?= BASE_URL ?>uploads/<?= $item['image'] ?>" alt="<?= $item['name'] ?>"
+                    <img src="<?= BASE_URL ?>assets/uploads/<?= $item['image'] ?>" alt="<?= $item['name'] ?>"
                         class="related-product-image">
 
                     <div class="related-product-info">
                         <p class="related-product-name"><?= $item['name'] ?></p>
                         <p class="related-product-price">$<?= number_format($item['price'], 2) ?></p>
 
-                        <a href="<?= BASE_URL ?>product/<?= $item['slug'] ?>" class="button-primary full-width">
+                        <a href="<?= BASE_URL ?>product/<?= $item['slug'] ?>" class="button-secondary ">
                             View
                         </a>
                     </div>

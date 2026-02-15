@@ -28,8 +28,7 @@
 
             <button type="submit" class="button-primary">Save Changes</button>
 
-            <a href="<?= BASE_URL ?>profile" class="button-secondary" style="margin-top:10px;">Cancel</a>
-
+            <a href="<?= BASE_URL ?>profile" class="btn-cancel">Cancel</a>
         </form>
 
     </div>

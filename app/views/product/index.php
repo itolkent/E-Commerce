@@ -11,11 +11,11 @@
                 <p class="product-card-name">
                     <?= $product['name'] ?>
                 </p>
-                <p class="product-card-price">$
+                <p class="product-card-price">£
                     <?= number_format($product['price'], 2) ?>
                 </p>
 
-                <a href="<?= BASE_URL ?>product/<?= $product['slug'] ?>" class="button-primary full-width">
+                <a href="<?= BASE_URL ?>product/<?= $product['slug'] ?>" class="button-secondary">
                     View
                 </a>
             </div>

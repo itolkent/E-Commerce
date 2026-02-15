@@ -15,7 +15,7 @@
 
         <?php if (empty($items)): ?>
             <p>Your cart is empty.</p>
-            <a href="<?= BASE_URL ?>" class="button-primary">Continue Shopping</a>
+            <a href="<?= BASE_URL ?>" class="button-secondary">Continue Shopping</a>
         <?php else: ?>
 
             <form action="<?= BASE_URL ?>cart/update" method="POST">
@@ -35,7 +35,7 @@
                         <?php foreach ($items as $item): ?>
                             <tr>
                                 <td>
-                                    <img src="<?= BASE_URL ?>uploads/<?= $item['image'] ?>" class="cart-thumb">
+                                    <img src="<?= BASE_URL ?>/assets/uploads/<?= $item['image'] ?>" class="cart-thumb">
                                     <?= $item['name'] ?>
                                 </td>
 
@@ -61,16 +61,16 @@
                     </tbody>
                 </table>
 
-                <button type="submit" class="button-primary">Update Cart</button>
+                <button type="submit" class="button-secondary">Update Cart</button>
 
             </form>
 
             <div class="cart-summary">
-                <h2>Total: $
+                <h2>Total: £
                     <?= number_format($total, 2) ?>
                 </h2>
 
-                <a href="<?= BASE_URL ?>checkout" class="button-primary">Proceed to Checkout</a>
+                <a href="<?= BASE_URL ?>checkout" class="button-secondary">Proceed to Checkout</a>
                 <a href="<?= BASE_URL ?>cart/clear" class="button-small danger">Clear Cart</a>
             </div>
 

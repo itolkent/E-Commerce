@@ -33,8 +33,8 @@
 
     <div class="profile-actions">
         <a href="<?= BASE_URL ?>orders" class="button-primary">My Orders</a>
-        <a href="<?= BASE_URL ?>profile/edit" class="button-secondary">Edit Profile</a>
-        <a href="<?= BASE_URL ?>logout" class="button-danger">Logout</a>
+        <a href="<?= BASE_URL ?>profile/edit" class="button-primary">Edit Profile</a>
+        <a href="<?= BASE_URL ?>logout" class="btn-logout">Logout</a>
     </div>
 
 </div>

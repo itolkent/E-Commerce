@@ -38,7 +38,7 @@
                     <p class="product-card-name">
                         <?= $product['name'] ?>
                     </p>
-                    <p class="product-card-price">$
+                    <p class="product-card-price">£
                         <?= number_format($product['price'], 2) ?>
                     </p>
 
